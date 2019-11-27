@@ -1,5 +1,6 @@
-# Irnas Lacuna modem - v2 - development
-<img src="https://github.com/IRNAS/arribada-pmp/blob/development-v2/4_DOC/irnas_logo.png" height="100">
+# Irnas Lacuna modem
+
+<img src="https://github.com/IRNAS/irnas-lacuna-modem/blob/development/4_DOC/irnas-logotip-rgb-02.png" height="100">
 
 ## License
 
