@@ -1,6 +1,6 @@
 # Irnas Lacuna modem
 
-<img src="https://github.com/IRNAS/irnas-lacuna-modem/blob/development/4_DOC/irnas-logotip-rgb-02.png" height="40">
+<img src="https://github.com/IRNAS/irnas-lacuna-modem/blob/development/4_DOC/irnas-logotip-rgb-02.png" height="60">
 
 ## License
 
