@@ -19,12 +19,12 @@ Device consists of:
  - Bottom side:
   - Patch antenna 868 MHz - ISMP.868.35.6.A.02
 
-Dimensions:
+Dimensions:  
  - Lenght: 45 mm
  - Height: 45 mm
  - PCB thickness: 1.6 mm
 
-Mounting pins:
+Mounting pins:  
  - Vertical pin (https://www.we-online.com/catalog/en/WP-SMBU_BLIND-HOLE/)
  - Angled pin (https://www.we-online.com/catalog/en/2ND_TAXONOMY$WP-SMRA_PINS/)
 
