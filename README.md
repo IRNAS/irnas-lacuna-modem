@@ -25,16 +25,16 @@ Dimensions:
  - PCB thickness: 1.6 mm
 
 Connector:
- Pin 1 - NC
- Pin 2 - SPI_MOSI
- Pin 3 - SPI_MISO
- Pin 4 - SPI_SCK
- Pin 5 - SPI_NSS
- Pin 6 - NC
- Pin 7 - DIO1
- Pin 8 - 5V
- Pin 9 - GPIO1
- Pin 10 - GND
+ Pin 1 - NC  
+ Pin 2 - SPI_MOSI  
+ Pin 3 - SPI_MISO  
+ Pin 4 - SPI_SCK  
+ Pin 5 - SPI_NSS  
+ Pin 6 - NC  
+ Pin 7 - DIO1  
+ Pin 8 - 5V  
+ Pin 9 - GPIO1  
+ Pin 10 - GND  
 
 ## Features:
  - LoRa communication module with micro RF connector and patch antenna
