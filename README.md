@@ -24,10 +24,6 @@ Dimensions:
  - Height: 45 mm
  - PCB thickness: 1.6 mm
 
-## Features:
- - LoRa communication module with micro RF connector and patch antenna
- - Voltage regulator to 3.3 V
-
 Connector:
  Pin 1 - NC
  Pin 2 - SPI_MOSI
@@ -39,6 +35,11 @@ Connector:
  Pin 8 - 5V
  Pin 9 - GPIO1
  Pin 10 - GND
+
+## Features:
+ - LoRa communication module with micro RF connector and patch antenna
+ - Voltage regulator to 3.3 V
+
 
 ## License
 
