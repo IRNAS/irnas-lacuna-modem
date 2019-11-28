@@ -24,7 +24,11 @@ Dimensions:
  - Height: 45 mm
  - PCB thickness: 1.6 mm
 
-Connector:
+Mounting pins:
+ - Vertical pin (https://www.we-online.com/catalog/en/WP-SMBU_BLIND-HOLE/)
+ - Angled pin (https://www.we-online.com/catalog/en/2ND_TAXONOMY$WP-SMRA_PINS/)
+
+Connector:  
  Pin 1 - NC  
  Pin 2 - SPI_MOSI  
  Pin 3 - SPI_MISO  
