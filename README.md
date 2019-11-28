@@ -2,6 +2,25 @@
 
 <img src="https://github.com/IRNAS/irnas-lacuna-modem/blob/development/4_DOC/irnas-logotip-rgb-02.png" height="60">
 
+## Folder structure
+ - folder 1_SCHEMATIC includes Altium schematic files and PDF schematic
+ - folder 2_PCB includes Altium PCB file, PDF PCB print and PDF 3D PCB print
+ - folder 3_OUTPUT_FILES includes Gerber and NC Drill files, PDF Assembly file and Bill of Material
+ - folder 4_DOC includes 3D step model of PCB and photos of device
+ - folder 5_ALTIUM_FILES incudes all Altium Designer files (Libraries, Output job, Project document, ...)
+
+## Specification
+Device consists of:
+ - LoRa module - E22-900M22S
+ - Fixed LDO Voltage RegulatoR 2.5 V - MIC5504-3.3YM5-TR
+ - Patch antenna 868 MHz - ISMP.868.35.6.A.02
+ - 10 pin PicoBlade connector
+
+Dimensions:
+ - Lenght: 45 mm
+ - Height: 45 mm
+ - PCB thickness: 1.6 mm
+
 ## License
 
 All our projects are as usefully open-source as possible.
