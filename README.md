@@ -1,6 +1,7 @@
 # Irnas Lacuna modem
-
 <img src="https://github.com/IRNAS/irnas-lacuna-modem/blob/development/4_DOC/irnas-logotip-rgb-02.png" height="60">
+
+<img src="https://github.com/IRNAS/irnas-lacuna-modem/blob/development/4_DOC/pcb_angle.png" height="200">
 
 ## Folder structure
  - folder 1_SCHEMATIC includes Altium schematic files and PDF schematic
@@ -11,15 +12,33 @@
 
 ## Specification
 Device consists of:
- - LoRa module - E22-900M22S
- - Fixed LDO Voltage RegulatoR 2.5 V - MIC5504-3.3YM5-TR
- - Patch antenna 868 MHz - ISMP.868.35.6.A.02
- - 10 pin PicoBlade connector
+ - Top side:
+  - LoRa module - E22-900M22S
+  - Fixed LDO Voltage Regulator 3.3 V - MIC5504-3.3YM5-TR
+  - 10 pin PicoBlade connector
+ - Bottom side:
+  - Patch antenna 868 MHz - ISMP.868.35.6.A.02
 
 Dimensions:
  - Lenght: 45 mm
  - Height: 45 mm
  - PCB thickness: 1.6 mm
+
+## Features:
+ - LoRa communication module with micro RF connector and patch antenna
+ - Voltage regulator to 3.3 V
+
+Connector:
+ Pin 1 - NC
+ Pin 2 - SPI_MOSI
+ Pin 3 - SPI_MISO
+ Pin 4 - SPI_SCK
+ Pin 5 - SPI_NSS
+ Pin 6 - NC
+ Pin 7 - DIO1
+ Pin 8 - 5V
+ Pin 9 - GPIO1
+ Pin 10 - GND
 
 ## License
 
