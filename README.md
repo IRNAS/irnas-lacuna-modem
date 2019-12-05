@@ -13,11 +13,11 @@
 ## Specification
 Device consists of:
  - Top side:
-  - LoRa module - E22-900M22S
-  - Fixed LDO Voltage Regulator 3.3 V - MIC5504-3.3YM5-TR
-  - 10 pin PicoBlade connector
+   - LoRa module - E22-900M22S
+   - Fixed LDO Voltage Regulator 3.3 V - MIC5504-3.3YM5-TR
+   - 10 pin PicoBlade connector
  - Bottom side:
-  - Patch antenna 868 MHz - ISMP.868.35.6.A.02
+   - Patch antenna 868 MHz - ISMP.868.35.6.A.02
 
 Dimensions:  
  - Lenght: 45 mm
